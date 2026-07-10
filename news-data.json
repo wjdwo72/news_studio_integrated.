@@ -1,13 +1,1541 @@
 {
-  "updatedAt": "2026-07-09T23:17:55.998Z",
+  "updatedAt": "2026-07-10T01:08:41.748Z",
   "categories": {
-    "정치": [],
-    "경제": [],
-    "세계": [],
-    "기술": [],
-    "문화": [],
-    "스포츠": [],
-    "사회": []
+    "정치": [
+      {
+        "rank": 1,
+        "title": "유재성 경찰청장 직무대행 조기 귀국‥\"'장윤기 사건' 매우 송구\"",
+        "source": "MBC 뉴스",
+        "category": "정치",
+        "time": "3시간 전",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4Xzl0b2VRdEh3RWFWZ3o1dVFDT1Nmc2dEVGFPeDhBZFFHZU93bFZLcUlFc3dMc0FTUEJjc19sVmMwck5HQWVOSU1wcUtjRWVDTTY5Y1BlQ0dxY3V2emVYOEtGU3ZZbnlDbGxiRUdLLXFGbXJjbkNZ0gF3QVVfeXFMUDl2SnVkLXJYSWVsVU5kajB2ZC1kQnViM1JVY3pZQUx4Y1JkRFM1N3VhNFU3ZlBoRnEwdlEyd1JabWhGOHN5MUkyQ2lBMGtTb2dCaVhVUHRVejdLZHY3cE9QTkZkdnpjOHJMNDhjRzM3eW1aa1ZaaEk?oc=5",
+        "views": 93301,
+        "pubDate": "Thu, 09 Jul 2026 21:19:03 GMT",
+        "trending": "up",
+        "trendPercent": 36,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFB4Xzl0b2VRdEh3RWFWZ3o1dVFDT1Nmc2dEVGFPeDhBZFFHZU93bFZLcUlFc3dMc0FTUEJjc19sVmMwck5HQWVOSU1w…",
+        "keywords": [
+          "유재성",
+          "경찰청장",
+          "직무대행",
+          "조기"
+        ]
+      },
+      {
+        "rank": 2,
+        "title": "‘윤석열 체포방해’ 김성훈 전 경호차장 징역 5년 법정구속",
+        "source": "한겨레",
+        "category": "정치",
+        "time": "11시간 전",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwTXpXamlYNFA1bG1GdmRuclBIQlRiRmZtVVRUbExqQUdXVHNROVVLVV9DRnlROUJJamduX3lITWx3VEQwLWZ4QzVXNklxOFRhY0N6bmV2Nko2dFhuZnlrU05xSXZsNkZ3NTRrZkFKS256Zw?oc=5",
+        "views": 49393,
+        "pubDate": "Thu, 09 Jul 2026 13:11:00 GMT",
+        "trending": "up",
+        "trendPercent": 24,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFAwTXpXamlYNFA1bG1GdmRuclBIQlRiRmZtVVRUbExqQUdXVHNROVVLVV9DRnlROUJJamduX3lITWx3VEQwLWZ4QzVX…",
+        "keywords": [
+          "윤석열",
+          "체포방해",
+          "김성훈",
+          "경호차장"
+        ]
+      },
+      {
+        "rank": 3,
+        "title": "김민석 \"지지율 하락, 얼마나 망신인가\" 정청래 \"당원은 남 탓 싫어해\"",
+        "source": "조선일보",
+        "category": "정치",
+        "time": "9시간 전",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaUVIa2gtV1dqR3NQZjl5aS10U1F2ajhsNXJPUmVvYlVkaGtneVlHZUZFU1QzSDZNZzNkM3lYRUduSWI5YnRhZ3pybUR3QU5HQy1GOWZIMkt2emlsVy1SdDB6UEtMdjIwVlM4bnMxYmgxelB5eG5WeHU2aUIwM2hEbXRnUlR6QQ?oc=5",
+        "views": 33117,
+        "pubDate": "Thu, 09 Jul 2026 15:49:00 GMT",
+        "trending": "up",
+        "trendPercent": 19,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOaUVIa2gtV1dqR3NQZjl5aS10U1F2ajhsNXJPUmVvYlVkaGtneVlHZUZFU1QzSDZNZzNkM3lYRUduSWI5YnRhZ3py…",
+        "keywords": [
+          "김민석",
+          "지지율",
+          "하락",
+          "얼마나"
+        ]
+      },
+      {
+        "rank": 4,
+        "title": "이재명 대통령 뽑은 2030이 보는 민주당은 “꼰대 기득권 정당”",
+        "source": "경향신문",
+        "category": "정치",
+        "time": "2시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jam9nVTRhaHFvNmhiV1BuUGs1SDQ2c0o0azhXa2xneWZXLW5uU243ZUZWeDJESHNvVkNqSnhCTGhQMEFMR3lqM0FrbzhaUS1xSjlGemN6b3dzd9IBX0FVX3lxTE1jeHI2d2tjY2Jncm1COG5WMVlVWHlWa0h3OGpoamxnT081NVpuWDBscFVBOXlGenpSaWhEQngzNkRNSzdqMWRadU9maGhyMjVYNWdGNlhWNV9Qa1QtZTlB?oc=5",
+        "views": 30478,
+        "pubDate": "Thu, 09 Jul 2026 22:14:00 GMT",
+        "trending": "down",
+        "trendPercent": 8,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jam9nVTRhaHFvNmhiV1BuUGs1SDQ2c0o0azhXa2xneWZXLW5uU243ZUZWeDJESHNvVkNqSnhCTGhQMEFMR3lqM0Fr…",
+        "keywords": [
+          "이재명",
+          "대통령",
+          "뽑은",
+          "2030이"
+        ]
+      },
+      {
+        "rank": 5,
+        "title": "매장량 세계 2위 몽골 희토류 무관세로 들여온다",
+        "source": "동아일보",
+        "category": "정치",
+        "time": "10시간 전",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LR0ZibExubmZ2OWotemhzb2hnejdwLXdHOTI2UjQ3SWk0eERQSUJkdTloVDFkaGlWcjBaNFJ4TUJpNkJmSkVSdl9lSVdnUndUdmNieEdYNlJPUDdMTXBYbERRcExDby01V0RqUjRxNkRXdXdvNGhZ0gFmQVVfeXFMUENibmlIY0hBOWVRbFdPd29iYzd3aE42NzlfQUtjQlR4dDBOVXQ4OThnazllcVpzMm10WmNVeVo1aGxhMFR1Ynl3WmVtTG1IalRUZ2VjRzZQZUM1T0RPbW5jQThpNXJR?oc=5",
+        "views": 20069,
+        "pubDate": "Thu, 09 Jul 2026 14:39:00 GMT",
+        "trending": "neutral",
+        "trendPercent": 32,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5LR0ZibExubmZ2OWotemhzb2hnejdwLXdHOTI2UjQ3SWk0eERQSUJkdTloVDFkaGlWcjBaNFJ4TUJpNkJmSkVSdl9l…",
+        "keywords": [
+          "매장량",
+          "세계",
+          "2위",
+          "몽골"
+        ]
+      },
+      {
+        "rank": 6,
+        "title": "트럼프, 군함 한국서 건조 요청? 청와대 “배제하지 않는 인상 받아”",
+        "source": "한겨레",
+        "category": "정치",
+        "time": "22분 전",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81aHBxVUlhX2FzbDd1eVBiQy1EdTEwOWMyN29RS1hPbjZkS0dXMU9fa29ERWgxaGNzdG5SRGlaSFQ0T2l5VVQwUEF3NVZSdDVseUxIT2tJaFo5MmtRSzJEcUFQTnFCUXZwb1Nv?oc=5",
+        "views": 22506,
+        "pubDate": "Fri, 10 Jul 2026 00:46:00 GMT",
+        "trending": "neutral",
+        "trendPercent": 17,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE81aHBxVUlhX2FzbDd1eVBiQy1EdTEwOWMyN29RS1hPbjZkS0dXMU9fa29ERWgxaGNzdG5SRGlaSFQ0T2l5VVQwUEF3…",
+        "keywords": [
+          "트럼프",
+          "군함",
+          "한국서",
+          "건조"
+        ]
+      },
+      {
+        "rank": 7,
+        "title": "“하늘에 구멍난 줄” …서울 도림천 인근 지역 첫 침수주의보 발령",
+        "source": "매일경제",
+        "category": "정치",
+        "time": "19시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mdmxpV1Y1QTRCWjJ6TWpDNGdYNGxXdXdBTUs3WUxNVVRTbzNCNWdGU0dqRENCS3d4VW5STkZnYVlsSEVsbDIxY2g5YkZtcG1XZHVtYw?oc=5",
+        "views": 13074,
+        "pubDate": "Thu, 09 Jul 2026 05:11:56 GMT",
+        "trending": "down",
+        "trendPercent": 9,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mdmxpV1Y1QTRCWjJ6TWpDNGdYNGxXdXdBTUs3WUxNVVRTbzNCNWdGU0dqRENCS3d4VW5STkZnYVlsSEVsbDIxY2g5…",
+        "keywords": [
+          "하늘에",
+          "구멍난",
+          "서울",
+          "도림천"
+        ]
+      },
+      {
+        "rank": 8,
+        "title": "장맛비에 산사태·홍수 경보…\"범람 지역 주민 즉시 대피\"",
+        "source": "한국경제",
+        "category": "정치",
+        "time": "23시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CYTNCQU5CWDJfWmMzcVkzNUJxVUlSZlhzVU5kT19DUE9lVXIzU1FBNFBNWWFfQVI3UFpDX2NSNDVid0l0a0txeDY0ZzVMRGlxSEVpNDdWYUlBQdIBVEFVX3lxTE9NeUtleWVjOUpDeHlTaHktaEhaQUVTQ1MxdGhFYmxmdUNHZUdFdXh2MThmZUY3VEZ3OVFRd0ZJWlRCNDczZHZjT1puQ1FkbEdtYWlpSA?oc=5",
+        "views": 15760,
+        "pubDate": "Thu, 09 Jul 2026 02:02:18 GMT",
+        "trending": "neutral",
+        "trendPercent": 22,
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CYTNCQU5CWDJfWmMzcVkzNUJxVUlSZlhzVU5kT19DUE9lVXIzU1FBNFBNWWFfQVI3UFpDX2NSNDVid0l0a0txeDY0ZzVMRGlx…",
+        "keywords": [
+          "장맛비에",
+          "산사태",
+          "홍수",
+          "경보"
+        ]
+      },
+      {
+        "rank": 9,
+        "title": "호남 반도체 클러스터 주변 2년간 ‘토지거래허가’ 묶인다",
+        "source": "조선일보",
+        "category": "정치",
+        "time": "17시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnBfQXAyVDgwRjdwVm1FX0NCTnNoSjJxQ3diUFM1UWxuZ2lfOW53MWZJTlZvbUhHSTNDS3ktcXFyT0NVemw2eTdFbmlBQ2ZVYWpEM3VObThIR09ra295d0QwSU80MlFRY1Q3T1hnby1jQU5ZUFNKNHdOR3NGVjlKbWM1YmhJaDdR?oc=5",
+        "views": 16046,
+        "pubDate": "Thu, 09 Jul 2026 07:46:53 GMT",
+        "trending": "down",
+        "trendPercent": 20,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnBfQXAyVDgwRjdwVm1FX0NCTnNoSjJxQ3diUFM1UWxuZ2lfOW53MWZJTlZvbUhHSTNDS3ktcXFyT0NVemw2eTdF…",
+        "keywords": [
+          "호남",
+          "반도체",
+          "클러스터",
+          "주변"
+        ]
+      },
+      {
+        "rank": 10,
+        "title": "\"스벅 가야지\" 선창한 배재고 선수… \"광주 비하할 마음 없었다\"",
+        "source": "한국일보",
+        "category": "정치",
+        "time": "21시간 전",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5raDAtSTdSNnpDS25ySjU1N0NhUFFRUGIwOVBoNmZ2aGNyX09OQnpqd2FKcDhuV3lEbjNsRnlDeUVuV3FuUFFlTWt2RXFRcGQtalZSUG52M3NnbXAyRlM4ZXpnSFYycHJJdVVLNHZ30gFzQVVfeXFMTXhldHlZMVBMYlpFOXYzUmRhSThPSVVldm1fT0dMS2ZzSFJhbXFpNVFwUlZ5XzVZVkQyRG9TY2h3XzBnMlJQdmFfM0lIQjh0TUtCbl9OVUJPQVIxWVR5QlVkRlZTaTJENFZ4MlVDYV9hWjkxbw?oc=5",
+        "views": 12307,
+        "pubDate": "Thu, 09 Jul 2026 03:20:00 GMT",
+        "trending": "down",
+        "trendPercent": 15,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5raDAtSTdSNnpDS25ySjU1N0NhUFFRUGIwOVBoNmZ2aGNyX09OQnpqd2FKcDhuV3lEbjNsRnlDeUVuV3FuUFFlTWt2…",
+        "keywords": [
+          "스벅",
+          "가야지",
+          "선창한",
+          "배재고"
+        ]
+      }
+    ],
+    "경제": [
+      {
+        "rank": 1,
+        "title": "[속보] SK하이닉스 ADR 공모가 149달러 확정···외국기업 IPO 사상 최대",
+        "source": "경향신문",
+        "category": "경제",
+        "time": "1시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxQnFYWUY3cUhxdVRJTHp3TDNxb3QxX2wxZEQxRG9UaTVzTWQtU1BwUW5hTkR5cXEwdm5Qa0tIcHdHRWFBaDVFVGlKbUN2TmlhZjcyVi1LQ0Z3d9IBX0FVX3lxTE5PRDZGQVJMbEp1ZTJ4R2NWUHExdkhlaXpiUG16VExkTXBwYVpXdWxjSUlqcFRha0ozd2JKOTk2bjVIVVlRbER0YUdyakpSc194R0F5STRhYW5CRFJ3NE5F?oc=5",
+        "views": 99583,
+        "pubDate": "Thu, 09 Jul 2026 23:13:00 GMT",
+        "trending": "up",
+        "trendPercent": 26,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxQnFYWUY3cUhxdVRJTHp3TDNxb3QxX2wxZEQxRG9UaTVzTWQtU1BwUW5hTkR5cXEwdm5Qa0tIcHdHRWFBaDVFVGlK…",
+        "keywords": [
+          "속보",
+          "SK하이닉스",
+          "ADR",
+          "공모가"
+        ]
+      },
+      {
+        "rank": 2,
+        "title": "캐나다 잠수함 고배는 매크로 악재…조선 3사 목표가 줄하향",
+        "source": "매일경제 마켓",
+        "category": "경제",
+        "time": "44분 전",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGV1pPSHpfakJJT2JOZGVpUDV5cDd1U0s2OXBqZFlzcXpEUzc1UktvVEw1VWp2ZmIzYWJvemRIWVpNVEQyNDRYbkFzSEc2RllFUWc?oc=5",
+        "views": 52557,
+        "pubDate": "Fri, 10 Jul 2026 00:24:14 GMT",
+        "trending": "up",
+        "trendPercent": 28,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGV1pPSHpfakJJT2JOZGVpUDV5cDd1U0s2OXBqZFlzcXpEUzc1UktvVEw1VWp2ZmIzYWJvemRIWVpNVEQyNDRYbkFz…",
+        "keywords": [
+          "캐나다",
+          "잠수함",
+          "고배는",
+          "매크로"
+        ]
+      },
+      {
+        "rank": 3,
+        "title": "“이제 그만할래” 코스피 1조 던진 개미군단",
+        "source": "문화일보",
+        "category": "경제",
+        "time": "14시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZV2lqX0o5MnhpeFhEaDVLNUg2Q1Buemo3LXllZG5nbUxMOVFza3hxbEtsUHBLdjJlRWk4d1p6X0hzLWl6OUh6S1ZSUlZiT1lx?oc=5",
+        "views": 36997,
+        "pubDate": "Thu, 09 Jul 2026 11:04:34 GMT",
+        "trending": "up",
+        "trendPercent": 7,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZV2lqX0o5MnhpeFhEaDVLNUg2Q1Buemo3LXllZG5nbUxMOVFza3hxbEtsUHBLdjJlRWk4d1p6X0hzLWl6OUh6S1ZS…",
+        "keywords": [
+          "이제",
+          "그만할래",
+          "코스피",
+          "1조"
+        ]
+      },
+      {
+        "rank": 4,
+        "title": "“7천만 원 넣었는데 반토막”…‘삼전닉스’ 레버리지, 상폐도 못 한다? [잇슈 머니]",
+        "source": "KBS 뉴스",
+        "category": "경제",
+        "time": "3시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IVExwUTg2RzNfQTdLZF9nS0t4QWpFS1dkRkRtVjIxZWlQb3drSUxmRVZzTDhPejNtb05Uay1TSmhsRmE4QkhrWEZfLWxqN2J3YWpKSGM0c1ZZWHM?oc=5",
+        "views": 29932,
+        "pubDate": "Thu, 09 Jul 2026 21:57:00 GMT",
+        "trending": "neutral",
+        "trendPercent": 25,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IVExwUTg2RzNfQTdLZF9nS0t4QWpFS1dkRkRtVjIxZWlQb3drSUxmRVZzTDhPejNtb05Uay1TSmhsRmE4QkhrWEZf…",
+        "keywords": [
+          "7천만",
+          "넣었는데",
+          "반토막",
+          "삼전닉스"
+        ]
+      },
+      {
+        "rank": 5,
+        "title": "韓 선박 엔진 2분기 수익성 껑충… “中 주문도 밀려든다“ - 조선비즈",
+        "source": "Chosunbiz",
+        "category": "경제",
+        "time": "4시간 전",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYm9tMENKVDhqVTFIWEwtcXNncGtGSzFGUUREWnZnZFpOOW9seEJielBqM0RxUGNRRmVFdmR6ZWR4MlJRemQ1MFoyeXlmUWZYdnNjamZHTXBtSHJTczhaTVM1STZRYnR6T2d5WHZSSUtpME42WC03Zk8xN2lKZ1ZJaThOeVfSAZgBQVVfeXFMTUtRUmZHOWtaYUdmTHpnbVhaRWlpZjFIWVprM0EzQUFxZUVjUzNON2h6NExka25JVkN4NThGMHdrNEx0bDRIMlVMV3lLVjJRSnNzM05qWGNzMFJkV0ZnaFpmNVFvRWdKUHprY2xuT1hnLVJERFZhOExGZVZCSVVHTms5MmJwS0FBdXVOYW1TN2pIaVI1a0dTLU0?oc=5",
+        "views": 19596,
+        "pubDate": "Thu, 09 Jul 2026 21:04:06 GMT",
+        "trending": "neutral",
+        "trendPercent": 5,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQYm9tMENKVDhqVTFIWEwtcXNncGtGSzFGUUREWnZnZFpOOW9seEJielBqM0RxUGNRRmVFdmR6ZWR4MlJRemQ1MFoy…",
+        "keywords": [
+          "선박",
+          "엔진",
+          "2분기",
+          "수익성"
+        ]
+      },
+      {
+        "rank": 6,
+        "title": "미 상무장관 \"삼성·하이닉스 미국서 생산 시설 짓게 하고 싶어\"",
+        "source": "MBC 뉴스",
+        "category": "경제",
+        "time": "3시간 전",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4wMXpqZ1pTV28wZFhJSjkxY3RvSV9YYkx2d0dlbDRETjk2S0lPcEctY2hacm5LaHp0ZUpnbWxlbDd0b2NleXRBNUsydXZ3WHhDNC1FcjhMemxZaldGNk9ZWU9NZjRDcVJNSTlCak1rcVE1eEFp0gF0QVVfeXFMTVplV2d5QjhSeEswV2lBVmFya21sQkhZd1NrejJ0ZFJlckJtQldGQUlmUlhPNEdjc1dCOGJCbTlyek9CY0Z5cHBUZy1iNkZQc19iX2hKTEZXQXZXWHplel9TZXFYM29JRFpfSG9ORGk1azNwVzk?oc=5",
+        "views": 22801,
+        "pubDate": "Thu, 09 Jul 2026 22:01:30 GMT",
+        "trending": "neutral",
+        "trendPercent": 43,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE4wMXpqZ1pTV28wZFhJSjkxY3RvSV9YYkx2d0dlbDRETjk2S0lPcEctY2hacm5LaHp0ZUpnbWxlbDd0b2NleXRBNUsy…",
+        "keywords": [
+          "상무장관",
+          "삼성",
+          "하이닉스",
+          "미국서"
+        ]
+      },
+      {
+        "rank": 7,
+        "title": "'대출 끼고 사려고 했는데'…은행권 한도 하향에 주택 거래 둔화 전망",
+        "source": "연합인포맥스",
+        "category": "경제",
+        "time": "19시간 전",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KLU4xbGpqM1RyUGFvQ0E3eUp6MUVEaVhjMmh2VVVCU2U4ZV9TeU9td3Etdkh1bkNWeDB2a25HUUhqMFN5RC10bWVLUEh6YjQwSG1fbEd3dmZ1dENJZVhrbUpzRGNDOXFHamhyeUIteFA?oc=5",
+        "views": 14328,
+        "pubDate": "Thu, 09 Jul 2026 05:42:12 GMT",
+        "trending": "down",
+        "trendPercent": 8,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9KLU4xbGpqM1RyUGFvQ0E3eUp6MUVEaVhjMmh2VVVCU2U4ZV9TeU9td3Etdkh1bkNWeDB2a25HUUhqMFN5RC10bWVL…",
+        "keywords": [
+          "대출",
+          "끼고",
+          "사려고",
+          "했는데"
+        ]
+      },
+      {
+        "rank": 8,
+        "title": "[단독] 삼성전자, PC용 AI칩 출사표…엔비디아·퀄컴과 '맞짱'",
+        "source": "한국경제",
+        "category": "경제",
+        "time": "1시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pa1pFNmwzYXpSeS11c2ZqcFFCeVlRb3dxNFBoMndyX25wVkJLdldUM1hraGN6a0lGOWNtZzhkX1hmVTllY1JCcFMxbDBsSEVhdDF1OUMwSzJVdw?oc=5",
+        "views": 20458,
+        "pubDate": "Thu, 09 Jul 2026 23:46:00 GMT",
+        "trending": "down",
+        "trendPercent": 47,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pa1pFNmwzYXpSeS11c2ZqcFFCeVlRb3dxNFBoMndyX25wVkJLdldUM1hraGN6a0lGOWNtZzhkX1hmVTllY1JCcFMx…",
+        "keywords": [
+          "단독",
+          "삼성전자",
+          "PC용",
+          "AI칩"
+        ]
+      },
+      {
+        "rank": 9,
+        "title": "중동 긴장 재고조에 혼조 마감…나스닥은 반등 [뉴욕증시 브리핑]",
+        "source": "한국경제",
+        "category": "경제",
+        "time": "26시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MU1abE51TFlwN0gxa2NvaGxHcWRhc2pMdVlZaGtGdG8xSXl2YXNDcGRadUFlSVhxQjN2alpkcHJLMDNHbmhZeE04Vk5ScnZWU1JET2JwTUU5QdIBVEFVX3lxTE80ellHa2paOWNlNkthNWdMa1M2ZURsNWxIMFI1cWVOQ0V5ZTVuWGt6MEVnbE5XMFp1aklJOGdTX2txZ1hLNF9vYkoxY05JSE80YUd1Ug?oc=5",
+        "views": 13113,
+        "pubDate": "Wed, 08 Jul 2026 22:17:42 GMT",
+        "trending": "down",
+        "trendPercent": 31,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MU1abE51TFlwN0gxa2NvaGxHcWRhc2pMdVlZaGtGdG8xSXl2YXNDcGRadUFlSVhxQjN2alpkcHJLMDNHbmhZeE04…",
+        "keywords": [
+          "중동",
+          "긴장",
+          "재고조에",
+          "혼조"
+        ]
+      },
+      {
+        "rank": 10,
+        "title": "금통위 1주일 앞 … 신현송 \"환율 변동성·집값 상승 경계, 금리 인상 필요\"",
+        "source": "뉴데일리",
+        "category": "경제",
+        "time": "23시간 전",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iNzc5LUhTZl9XM24zYlpiVE1SS2QxelQwUVh5cEFwemM0UF9fRFUwR25hRDhib0Z6ZHNRbENILVVydzdVb2RkRmR0akRNdnRZNDdhel9BSzdQeUFsRmx3cHEycVMxcVJ5RFlFbE9pT0ttR0xBQUZmaDZuONIBgAFBVV95cUxONXZydzRzZEdUQUpoaE1zVUQycUh0U0lTZTFxTXNwTmFRTnpBbWtaMnc0a0h0ZlRZanBwRFR5SG1jOFE3UXNqdk1WdS1McGxvU09yb2NoV2V3Y2M4bWF3T1ZVUVNmeHhmQk1yNWt2MF9BT0V6cDQ4cmpJNGdNR0tMbg?oc=5",
+        "views": 15388,
+        "pubDate": "Thu, 09 Jul 2026 01:37:32 GMT",
+        "trending": "neutral",
+        "trendPercent": 40,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1iNzc5LUhTZl9XM24zYlpiVE1SS2QxelQwUVh5cEFwemM0UF9fRFUwR25hRDhib0Z6ZHNRbENILVVydzdVb2RkRmR0…",
+        "keywords": [
+          "금통위",
+          "1주일",
+          "신현송",
+          "환율"
+        ]
+      }
+    ],
+    "세계": [
+      {
+        "rank": 1,
+        "title": "\"이스라엘, 미국에 '이란이 트럼프 암살 계획' 첩보 전달\"",
+        "source": "연합뉴스",
+        "category": "세계",
+        "time": "1시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KM0VoTmMtVlpjX2xBd0p2cWNsQ25JMnNkSzA1TzRENEZfS0NvZWF6SHdyVzNuU3lYY3hLOUZMOThGRjVXd21JTWNTZGRyRDFMTk5iTkVtN085T2vSAWBBVV95cUxNUFg5M19oSEtCTWx0NVJkVTVWZU0teVF2NUhhQzNIdlhCUERuYnd6TElSUjRpMXFCT1FHZjZjenBZMExfVFlPTVp4SHdCTkV4NWRRRnl1TFBVMk5WelQzMDU?oc=5",
+        "views": 99856,
+        "pubDate": "Thu, 09 Jul 2026 23:53:29 GMT",
+        "trending": "up",
+        "trendPercent": 13,
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KM0VoTmMtVlpjX2xBd0p2cWNsQ25JMnNkSzA1TzRENEZfS0NvZWF6SHdyVzNuU3lYY3hLOUZMOThGRjVXd21JTWNTZGRyRDFM…",
+        "keywords": [
+          "이스라엘",
+          "미국에",
+          "이란이",
+          "트럼프"
+        ]
+      },
+      {
+        "rank": 2,
+        "title": "이란 매체 “부셰르 군사기지 미·이스라엘 발사체에 피격”",
+        "source": "경향신문",
+        "category": "세계",
+        "time": "2시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85S1Z4bFluZlJMdmVUc3FSZGxGRGFQeUo4cDFEMERTWDNJVGNzcVF0S1d5RDFYMFN2UmNXcnMtb3RlNl9KUXBnQ290Tk9WdVM2d1JNS3J1RzhVUdIBX0FVX3lxTE9hUUIzWUVCOUo4bkt3eVpjVjdSQU5OWV9RbFdMS3N2dV9Va1NGNmpBR3BWcGJSTlpSZk01alIxZWNMclFrck5YR3piYWJEZ0lKNGdKYWc4VG0xSzlaaDFR?oc=5",
+        "views": 49213,
+        "pubDate": "Thu, 09 Jul 2026 22:30:00 GMT",
+        "trending": "up",
+        "trendPercent": 42,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE85S1Z4bFluZlJMdmVUc3FSZGxGRGFQeUo4cDFEMERTWDNJVGNzcVF0S1d5RDFYMFN2UmNXcnMtb3RlNl9KUXBnQ290…",
+        "keywords": [
+          "이란",
+          "매체",
+          "부셰르",
+          "군사기지"
+        ]
+      },
+      {
+        "rank": 3,
+        "title": "\"무역 끊겠다\" 트럼프 엄포에도…눈 하나 깜짝 안 하는 스페인",
+        "source": "조선일보",
+        "category": "세계",
+        "time": "3시간 전",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOEdzbndsNzkzN0Z0Q0R1N2lkeTJrdjh2MUNJVEVWdS1WR1ZRVS1ZTDZiX2FNZGMwcTNVQTR2RHZzSGlScGdaQVB0SFBITFRmQXVLeGZ1V2VWb18xYVRHNFlUWVN2NzBja3l5N0tmQkpMakJpT2lfazZ0QkllSVFyVEtFRWdPUVA4M0M2dExfeUlZOXBWc3kzZ2R6ZWQ1QQ?oc=5",
+        "views": 36148,
+        "pubDate": "Thu, 09 Jul 2026 21:24:00 GMT",
+        "trending": "up",
+        "trendPercent": 47,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOOEdzbndsNzkzN0Z0Q0R1N2lkeTJrdjh2MUNJVEVWdS1WR1ZRVS1ZTDZiX2FNZGMwcTNVQTR2RHZzSGlScGdaQVB0…",
+        "keywords": [
+          "무역",
+          "끊겠다",
+          "트럼프",
+          "엄포에도"
+        ]
+      },
+      {
+        "rank": 4,
+        "title": "“‘토달볶’ 한 그릇이 11만 원?” 서민음식에 에뮤알 넣어 이 가격에 판 식당 논란[아하중국]",
+        "source": "문화일보",
+        "category": "세계",
+        "time": "2시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zcmRwX0VQWFFnRjJodENkZDNHdFBvcFpacTdpNlEweXpkaXhlTENwVnR5SUJWazlOMTUySHFaUWtkSXB0X0gxdGZ2R2xpSTF6?oc=5",
+        "views": 30147,
+        "pubDate": "Thu, 09 Jul 2026 22:11:23 GMT",
+        "trending": "down",
+        "trendPercent": 14,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zcmRwX0VQWFFnRjJodENkZDNHdFBvcFpacTdpNlEweXpkaXhlTENwVnR5SUJWazlOMTUySHFaUWtkSXB0X0gxdGZ2…",
+        "keywords": [
+          "토달볶",
+          "그릇이",
+          "11만",
+          "서민음식에"
+        ]
+      },
+      {
+        "rank": 5,
+        "title": "트럼프 “조금 전 이란 전화, 이들은 합의 강력히 원해”",
+        "source": "문화일보",
+        "category": "세계",
+        "time": "2시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qX1pNM2prbklKbEloM01EaXRfbHFoNld2R256ak9UZEFrRS1HRWNmNHY2NmxjelE5QlRUeVRlTGRuT1U1TnBVX3VUX2x4ZXhQ?oc=5",
+        "views": 25522,
+        "pubDate": "Thu, 09 Jul 2026 23:04:48 GMT",
+        "trending": "down",
+        "trendPercent": 43,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qX1pNM2prbklKbEloM01EaXRfbHFoNld2R256ak9UZEFrRS1HRWNmNHY2NmxjelE5QlRUeVRlTGRuT1U1TnBVX3VU…",
+        "keywords": [
+          "트럼프",
+          "조금",
+          "이란",
+          "전화"
+        ]
+      },
+      {
+        "rank": 6,
+        "title": "중국 폭우, 최소 38명 사망…양식장 뱀 900마리 탈출해 물리기도",
+        "source": "한겨레",
+        "category": "세계",
+        "time": "37시간 전",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sd2NtZ1hzWFp4WFVibkxjUTc3bVpYblp2eXBOc2Z3c0dyV1VOZHZSR3MxcG9nUFpXSDk1TFhyM29mUFM2OWRlUWxtOHV4WEhKaE42c05HNEZBU0NHUzQxS3hVZ2FFcHNzWnliLQ?oc=5",
+        "views": 22442,
+        "pubDate": "Wed, 08 Jul 2026 11:10:00 GMT",
+        "trending": "neutral",
+        "trendPercent": 24,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1sd2NtZ1hzWFp4WFVibkxjUTc3bVpYblp2eXBOc2Z3c0dyV1VOZHZSR3MxcG9nUFpXSDk1TFhyM29mUFM2OWRlUWxt…",
+        "keywords": [
+          "중국",
+          "폭우",
+          "최소",
+          "38명"
+        ]
+      },
+      {
+        "rank": 7,
+        "title": "러시아 원유 대란…푸틴, 우크라戰 선택지 줄었다",
+        "source": "한국경제",
+        "category": "세계",
+        "time": "40시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xZHJfeGhkSEVseWhzdWZBS2N4OVR3QnZ1QlJIR1hoakRMM3JnTlpPU1l6d3pYSFlxekUwVkhZMUViTnF2N2xhYlQzeFhhM1BSbjY0MmFmMkptZ9IBVEFVX3lxTE12LUVQSk9RZDlVOFpVOFFRTG1WMF9hOGJGb254R3lWb3c4ZXQwOGhLOUFXRWtIZFB0U3lESlRfeDlaVlFXUkNFMXpwQUUtelB0bW5kOA?oc=5",
+        "views": 18411,
+        "pubDate": "Wed, 08 Jul 2026 08:59:56 GMT",
+        "trending": "down",
+        "trendPercent": 9,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xZHJfeGhkSEVseWhzdWZBS2N4OVR3QnZ1QlJIR1hoakRMM3JnTlpPU1l6d3pYSFlxekUwVkhZMUViTnF2N2xhYlQz…",
+        "keywords": [
+          "러시아",
+          "원유",
+          "대란",
+          "푸틴"
+        ]
+      },
+      {
+        "rank": 8,
+        "title": "이란, '하메네이 사망' 美·이스라엘 공습 직후 영상 공개",
+        "source": "MBC 뉴스",
+        "category": "세계",
+        "time": "33시간 전",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CNDJzZlc4WXhjNE5LaHJ3Qzc0TG5uV1RiSWVPeTVfYzdfaXlsV3VlSVFFa3NNRXhMa2IzRlczZjVLQXVqOWx5bEdiNzJCUjBBWXBNXzZjcDdFZXJQTVRVZWxxQ09ZanBXZnlOWjFTa2F5bjFB0gF0QVVfeXFMTUN1aDJsdzRMSExYQmM5THlrdmVqbTZURUVnN0NqUk5YU1VmS1NYVjdwWS14aEJlaFd0bkxnUTBVejVRajc3ZXdaeVlMU1hrVlZUcE02V09wMVh1SlNtd0stZ2VBU3JHLXFZbWlTLURNMW1WZkQ?oc=5",
+        "views": 14970,
+        "pubDate": "Wed, 08 Jul 2026 15:22:45 GMT",
+        "trending": "neutral",
+        "trendPercent": 49,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9CNDJzZlc4WXhjNE5LaHJ3Qzc0TG5uV1RiSWVPeTVfYzdfaXlsV3VlSVFFa3NNRXhMa2IzRlczZjVLQXVqOWx5bEdi…",
+        "keywords": [
+          "이란",
+          "하메네이",
+          "사망",
+          "이스라엘"
+        ]
+      },
+      {
+        "rank": 9,
+        "title": "우크라엔 패트리엇, 한국엔 원잠?…디테일 없는 트럼프 ‘승인 정치’",
+        "source": "조선일보",
+        "category": "세계",
+        "time": "25시간 전",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeWtVUFBiQkZSOVlxTW0zODhpSkFfRHVIb1R0SWg0ekZpdW5XRnQ4dVlkWGE5SVBYWnAyZ2NfUWRudDJ3aExtc0NxOHpXck16OUd6QzM3QU9QZXFLU1lyVHRaS2tRQUxwZk90SUxxaG55R2l5VkkzelBNcEkwb2IxNE9HY2QtVzR1TWx1QlozcTREWEdKN2FIZG9aWG00QQ?oc=5",
+        "views": 12918,
+        "pubDate": "Wed, 08 Jul 2026 23:52:14 GMT",
+        "trending": "neutral",
+        "trendPercent": 10,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNeWtVUFBiQkZSOVlxTW0zODhpSkFfRHVIb1R0SWg0ekZpdW5XRnQ4dVlkWGE5SVBYWnAyZ2NfUWRudDJ3aExtc0Nx…",
+        "keywords": [
+          "우크라엔",
+          "패트리엇",
+          "한국엔",
+          "원잠"
+        ]
+      },
+      {
+        "rank": 10,
+        "title": "“되는 일 하나도 없다”…이란 말 안 듣고 전쟁은 부담, ‘진퇴양난’ 트럼프",
+        "source": "매일경제",
+        "category": "세계",
+        "time": "2시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rSUdzcG1HUHhFdzhPSnFLTHhvQU0xejNleFJnVXpob0JRNXc0VllScktEdDhCY0JJWUVnbEtXQVptemdtb2V1QTZZQ1pPSEJGUHc?oc=5",
+        "views": 12007,
+        "pubDate": "Thu, 09 Jul 2026 23:05:42 GMT",
+        "trending": "neutral",
+        "trendPercent": 42,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rSUdzcG1HUHhFdzhPSnFLTHhvQU0xejNleFJnVXpob0JRNXc0VllScktEdDhCY0JJWUVnbEtXQVptemdtb2V1QTZZ…",
+        "keywords": [
+          "되는",
+          "하나도",
+          "없다",
+          "이란"
+        ]
+      }
+    ],
+    "기술": [
+      {
+        "rank": 1,
+        "title": "\"광화문 걷는 젠슨 황 그려줘\" 메타·구글·오픈AI에 같은 요구해봤더니",
+        "source": "네이트",
+        "category": "기술",
+        "time": "4시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GSkdMQXRJbzdfbGNfaXlDRV90ZFlOV2NmWFVtU29CMWJSeDM5UUk4LTNiX2dYeU1EZTdlZUZ1TTZ4dF9iWlpPRXdFbmt4WVpINkJR?oc=5",
+        "views": 96823,
+        "pubDate": "Thu, 09 Jul 2026 21:02:00 GMT",
+        "trending": "up",
+        "trendPercent": 13,
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GSkdMQXRJbzdfbGNfaXlDRV90ZFlOV2NmWFVtU29CMWJSeDM5UUk4LTNiX2dYeU1EZTdlZUZ1TTZ4dF9iWlpPRXdFbmt4WVpI…",
+        "keywords": [
+          "광화문",
+          "걷는",
+          "젠슨",
+          "그려줘"
+        ]
+      },
+      {
+        "rank": 2,
+        "title": "218만원 SK하이닉스에 '목표가 185만원' 제시한 증권사",
+        "source": "한국경제",
+        "category": "기술",
+        "time": "14시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TVXRGelB1aHJBV0pCc21OMWlodkcxRUZlMmVGMUFVcFRZT3dCUXJweDhhVDd6VUxYMUdvWndDVmdYS3VKTXNSMDNTakQ0YzhYd0RiSEZCZjVOd9IBVEFVX3lxTE5nYkFiM2lob0kxV0liMk45bWFnNEpHUG9uU0swV3N1cmxOWExrSGhLV09QMVZTSnZTUWtGa0M5STNzME55eWpqS3FVYXdPQ2lvTUZjYQ?oc=5",
+        "views": 50687,
+        "pubDate": "Thu, 09 Jul 2026 10:48:42 GMT",
+        "trending": "up",
+        "trendPercent": 23,
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TVXRGelB1aHJBV0pCc21OMWlodkcxRUZlMmVGMUFVcFRZT3dCUXJweDhhVDd6VUxYMUdvWndDVmdYS3VKTXNSMDNTakQ0YzhY…",
+        "keywords": [
+          "218만원",
+          "SK하이닉스에",
+          "목표가",
+          "185만원"
+        ]
+      },
+      {
+        "rank": 3,
+        "title": "머스크 ‘반값 AI’ 승부수… ‘그록 4.5’ 공개, 앤스로픽 등 맹추격",
+        "source": "v.daum.net",
+        "category": "기술",
+        "time": "9시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tTk1HY2pGQkJ4ZTBsWS1yejZWZ2JxRWViTjVOVlV6U3VSVFV3bDJEYmpjRzRXY2ZXM3pNY3pTM0lGeUliX3ZXcGotUHlzS00?oc=5",
+        "views": 31143,
+        "pubDate": "Thu, 09 Jul 2026 15:33:00 GMT",
+        "trending": "up",
+        "trendPercent": 29,
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tTk1HY2pGQkJ4ZTBsWS1yejZWZ2JxRWViTjVOVlV6U3VSVFV3bDJEYmpjRzRXY2ZXM3pNY3pTM0lGeUliX3ZXcGotUHlzS00?…",
+        "keywords": [
+          "머스크",
+          "반값",
+          "AI",
+          "승부수"
+        ]
+      },
+      {
+        "rank": 4,
+        "title": "삼성전자, PC용 AI 칩 ‘가이아’ 개발 중",
+        "source": "조선일보",
+        "category": "기술",
+        "time": "15시간 전",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQW54b1JJYjY2QnE1aVJrQ3ZxQVhpTkRvcmx0d0pza3FSU3ZNNXJ1YVZUQzlGc0FKZnlPcjQzczIycDQ0SWdjTVFGekJlLVlONzZPZWdfRVptcGRnZHhRczhQcWVYak4yakRnVzRUZUxNMTRGRHFFdFV2amY4eTg3Uy1fQQ?oc=5",
+        "views": 28082,
+        "pubDate": "Thu, 09 Jul 2026 09:36:49 GMT",
+        "trending": "neutral",
+        "trendPercent": 25,
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNQW54b1JJYjY2QnE1aVJrQ3ZxQVhpTkRvcmx0d0pza3FSU3ZNNXJ1YVZUQzlGc0FKZnlPcjQzczIycDQ0SWdjTVFGekJlLVlO…",
+        "keywords": [
+          "삼성전자",
+          "PC용",
+          "AI",
+          "가이아"
+        ]
+      },
+      {
+        "rank": 5,
+        "title": "[단독] 경찰, 장윤기 첫 수사 때 휴대폰 통화내역 조회도 안 했다",
+        "source": "조선일보",
+        "category": "기술",
+        "time": "5시간 전",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS01xdi04RmE4dndfMXZlcEwzNFVaRFFOZzh1bGFxYVZhTzRldWw5a1R5MWZkSmJCTlZoNzFhYldmYjEzdEZmcnRoZTFqUEJhOF83YjFfbDhDSDVSN01SY3ZXbmlGX2VNN2FnUVdXaGFQTnQ5OGEzTjlQYmI2S0wtWmhPRkVoNXM?oc=5",
+        "views": 20252,
+        "pubDate": "Thu, 09 Jul 2026 20:02:08 GMT",
+        "trending": "neutral",
+        "trendPercent": 42,
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOS01xdi04RmE4dndfMXZlcEwzNFVaRFFOZzh1bGFxYVZhTzRldWw5a1R5MWZkSmJCTlZoNzFhYldmYjEzdEZmcnRoZTFqUEJh…",
+        "keywords": [
+          "단독",
+          "경찰",
+          "장윤기",
+          "수사"
+        ]
+      },
+      {
+        "rank": 6,
+        "title": "'AI 대장주' 엔비디아, 시총 1조 달러 증발",
+        "source": "네이트",
+        "category": "기술",
+        "time": "17시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBITlk1aWgzbTItSklLSzNhU1J6LVVQVlZDcWtVYTg0alNTTjdPai1yV05yWmxaUWNTLWotV05ESTJfaHlGTXI5Wnp6QmUtd1F5SFlv?oc=5",
+        "views": 15373,
+        "pubDate": "Thu, 09 Jul 2026 07:30:00 GMT",
+        "trending": "neutral",
+        "trendPercent": 25,
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBITlk1aWgzbTItSklLSzNhU1J6LVVQVlZDcWtVYTg0alNTTjdPai1yV05yWmxaUWNTLWotV05ESTJfaHlGTXI5Wnp6QmUtd1F5…",
+        "keywords": [
+          "AI",
+          "대장주",
+          "엔비디아",
+          "시총"
+        ]
+      },
+      {
+        "rank": 7,
+        "title": "메타, 캐나다에 14조원 들여 데이터센터 건설…주가 낙폭 확대",
+        "source": "연합인포맥스",
+        "category": "기술",
+        "time": "29시간 전",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uQk9GVlhEa05SUEVVRGo4bE1CY0Q1ZDBhckFmRFdtMUZXREVTWE9sTjhxS2pzbm1xNC1oUC10R2xyZDdpR3Q5Nk10b1NHLWNCY3p2NzgzZG8zV3Y2SlRuRFJMZ015ejNSZi1DRU4ySGk?oc=5",
+        "views": 17049,
+        "pubDate": "Wed, 08 Jul 2026 19:59:07 GMT",
+        "trending": "down",
+        "trendPercent": 34,
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9uQk9GVlhEa05SUEVVRGo4bE1CY0Q1ZDBhckFmRFdtMUZXREVTWE9sTjhxS2pzbm1xNC1oUC10R2xyZDdpR3Q5Nk10b1NHLWNC…",
+        "keywords": [
+          "메타",
+          "캐나다에",
+          "14조원",
+          "들여"
+        ]
+      },
+      {
+        "rank": 8,
+        "title": "[단독]이재용, 이달 말 젠슨 황과 회동 추진… ‘광주 팹’ 투자 등 논의 전망",
+        "source": "동아일보",
+        "category": "기술",
+        "time": "9시간 전",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsalpENVNPRW5Xdk8yY3NNMk1KQUVWdXotVXlWV0diQlZUY1I0UU1VQnFETGc1d2VjNzlqTEZObHF0di1UNjRjeG1NQllBUlNtbVhOc2F6OXVLZ2pWVUJyUGMtek9fS091S21Xa0VJNS16ajRRZXfSAWZBVV95cUxQWThFS2xXcW9vQ1lma3M0aGxDcFI0NHF3OUJjOEFuS0c4NzByZjJnRGV1ZFo3VVlPd0drQjhKNXRJQUFXbGVwU2ZmS2o4YlUwV3dfM2dfaVFkdERzcU83UVBaLVB2b2c?oc=5",
+        "views": 17764,
+        "pubDate": "Thu, 09 Jul 2026 15:30:00 GMT",
+        "trending": "down",
+        "trendPercent": 49,
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBsalpENVNPRW5Xdk8yY3NNMk1KQUVWdXotVXlWV0diQlZUY1I0UU1VQnFETGc1d2VjNzlqTEZObHF0di1UNjRjeG1NQllBUlNt…",
+        "keywords": [
+          "단독",
+          "이재용",
+          "이달",
+          "젠슨"
+        ]
+      },
+      {
+        "rank": 9,
+        "title": "'삼성 로봇' 레인보우로보틱스, 4개 사업부로 쪼갰다…매출 확대 속도",
+        "source": "v.daum.net",
+        "category": "기술",
+        "time": "19시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Mc0pLS3BUUWFIZXFXZ21CUlRpRS1PNE5IanViT005ZEY1NmsxU3BwQW5PNWxSWkZMeElTcUJfanIxSXpBSlE?oc=5",
+        "views": 16511,
+        "pubDate": "Thu, 09 Jul 2026 05:44:49 GMT",
+        "trending": "neutral",
+        "trendPercent": 21,
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Mc0pLS3BUUWFIZXFXZ21CUlRpRS1PNE5IanViT005ZEY1NmsxU3BwQW5PNWxSWkZMeElTcUJfanIxSXpBSlE?oc=5\" target…",
+        "keywords": [
+          "삼성",
+          "로봇",
+          "레인보우로보틱스",
+          "4개"
+        ]
+      },
+      {
+        "rank": 10,
+        "title": "기판·원전·전력기기株의 배신…추격매수 개미들 울상",
+        "source": "v.daum.net",
+        "category": "기술",
+        "time": "16시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9aT1h4NG1ja0pqZ0N5cGxkdXQwSU9FVmdYNDRoTC0tdnhYbDFXY29ycTNDejBSNmRGaE90cE4tdDVNVnNrWXc?oc=5",
+        "views": 15347,
+        "pubDate": "Thu, 09 Jul 2026 08:54:05 GMT",
+        "trending": "neutral",
+        "trendPercent": 21,
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE9aT1h4NG1ja0pqZ0N5cGxkdXQwSU9FVmdYNDRoTC0tdnhYbDFXY29ycTNDejBSNmRGaE90cE4tdDVNVnNrWXc?oc=5\" target…",
+        "keywords": [
+          "기판",
+          "원전",
+          "전력기기의",
+          "배신"
+        ]
+      }
+    ],
+    "문화": [
+      {
+        "rank": 1,
+        "title": "홍상수·김민희 새 영화, 로카르노 영화제 초청…\"위대한 거장\"",
+        "source": "YTN",
+        "category": "문화",
+        "time": "18분 전",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyVXpiSmhSOG9FZnQxdW9tSWNRNzYyUU5LNHIxb3BxMlV0WXJKMGszaUpaZEVEb2JyV0dGbkx0UHd6dHlzZlBGOTNMSm9La2VBbDl1NlBscVIwZ05YOUpZ?oc=5",
+        "views": 92872,
+        "pubDate": "Fri, 10 Jul 2026 00:50:00 GMT",
+        "trending": "up",
+        "trendPercent": 34,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyVXpiSmhSOG9FZnQxdW9tSWNRNzYyUU5LNHIxb3BxMlV0WXJKMGszaUpaZEVEb2JyV0dGbkx0UHd6dHlzZlBGOTNM…",
+        "keywords": [
+          "홍상수",
+          "김민희",
+          "영화",
+          "로카르노"
+        ]
+      },
+      {
+        "rank": 2,
+        "title": "\"은퇴 아니었어?\" 덕자, 3년 잠적한 이유 고백…반전 근황에 팬들 '깜짝'",
+        "source": "네이트",
+        "category": "문화",
+        "time": "4시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VaXNQUmlCaHVLN1dfZnBZeDJhV2RmWmE2SWFEVFltc3FKdjdxUGhVQU8yLW1HSDhnRTdGbFhWa2djcWhkTG9SWlp0Z3Jqb2pIZzQ4?oc=5",
+        "views": 48827,
+        "pubDate": "Thu, 09 Jul 2026 20:56:00 GMT",
+        "trending": "up",
+        "trendPercent": 23,
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VaXNQUmlCaHVLN1dfZnBZeDJhV2RmWmE2SWFEVFltc3FKdjdxUGhVQU8yLW1HSDhnRTdGbFhWa2djcWhkTG9SWlp0Z3Jqb2pI…",
+        "keywords": [
+          "은퇴",
+          "아니었어",
+          "덕자",
+          "3년"
+        ]
+      },
+      {
+        "rank": 3,
+        "title": "'학폭 해명' 황영웅, KBS 주말극 OST 참여…\"예정대로\"",
+        "source": "한국경제",
+        "category": "문화",
+        "time": "24분 전",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNaDRGMF9yQmJVc1FaZk9VVU1QbEV5R0dGanhyNTBPbkQ0cFpGcTRpN21SemNmOXZXTERCdTVvdlJOLXZ2MWRxdkNFZC1QWVU3LTc5eDkwYWhXd9IBVEFVX3lxTE5sUWVEall2eDBXaXV4MDhzLTVHbU01WmNGOWJoXy00XzJadFVieWdfcjZYOWFLZU00UFBqVGpYQmRXSDVBam1VT2xhVzkxWHRXTkViZg?oc=5",
+        "views": 38840,
+        "pubDate": "Fri, 10 Jul 2026 00:44:08 GMT",
+        "trending": "up",
+        "trendPercent": 48,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNaDRGMF9yQmJVc1FaZk9VVU1QbEV5R0dGanhyNTBPbkQ0cFpGcTRpN21SemNmOXZXTERCdTVvdlJOLXZ2MWRxdkNF…",
+        "keywords": [
+          "학폭",
+          "해명",
+          "황영웅",
+          "KBS"
+        ]
+      },
+      {
+        "rank": 4,
+        "title": "최다니엘 \"장도연에 설렌 적 있다\"",
+        "source": "세계일보",
+        "category": "문화",
+        "time": "9분 전",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlUVMzVlpEUHpDV18yQjRJT2xnMVh2cnhDTFJmQ3owcTFnWVd6czhVX182VXlsbEt3bjNYRXlsZ1RUTXVxbkw1NlRmOU1EMGNuMU9LQjZHeTjSAVRBVV95cUxQMEN3UWdpSldPM3E4YWZablZLNFM3SmdBWjdqS3VRNUhhemszeGdtRGRLOXhISGJ0bGI0N0JSTWotX2ZwZldLRHpaTnczNGFhZkhRcFM?oc=5",
+        "views": 33379,
+        "pubDate": "Fri, 10 Jul 2026 00:58:53 GMT",
+        "trending": "down",
+        "trendPercent": 26,
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlUVMzVlpEUHpDV18yQjRJT2xnMVh2cnhDTFJmQ3owcTFnWVd6czhVX182VXlsbEt3bjNYRXlsZ1RUTXVxbkw1NlRmOU1EMGNu…",
+        "keywords": [
+          "최다니엘",
+          "장도연에",
+          "설렌",
+          "있다"
+        ]
+      },
+      {
+        "rank": 5,
+        "title": "\"모르는 나이트 클럽에 사진 붙어 있어\" 장윤정, 명의 도용 당했다 ('달라 스튜디오') [순간포착] - 조선비즈",
+        "source": "Chosunbiz",
+        "category": "문화",
+        "time": "12시간 전",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVThiSDR2V2gtdkVEMWs2MTFlWHN3Y21hbGJKNHBIUG16YzhwbHFKaWUwS3NuVndlUjBpZGk2NDBkTDNhRXluX3Q1bG9OZk5KZzIxdUNpUzQ4X3hrYjBHbDMzVDdGamxEUTUwMERJNFhFWU96SUM1eHRkWTh3ck91NzFSdENLVzhGRHZ6ZjJucXFmYzjSAacBQVVfeXFMTlh4enlCVEpiTkFqbXpYa3ZtNE1iRnpka3lOSm1KTE1ENE1VRDBMTXcxc3lYLUNkdy10NlpVbXRzNFQyaVhGaUhiel9uY255d2Q2T0E5QWdES2ZFTlJ4NERsV24xMkFzRGNTZWFLOHVQZ2VzVkJNS0xkQUllNXB3TnhQWHRwTG1aZ2xKSXM5MlV2aXlkcFRKSWtMVXNuWUFLOW42ZkxtaXc?oc=5",
+        "views": 24801,
+        "pubDate": "Thu, 09 Jul 2026 12:59:00 GMT",
+        "trending": "neutral",
+        "trendPercent": 28,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPVThiSDR2V2gtdkVEMWs2MTFlWHN3Y21hbGJKNHBIUG16YzhwbHFKaWUwS3NuVndlUjBpZGk2NDBkTDNhRXluX3Q1…",
+        "keywords": [
+          "모르는",
+          "나이트",
+          "클럽에",
+          "사진"
+        ]
+      },
+      {
+        "rank": 6,
+        "title": "'음주운전' 적발 후 무대 선 이루 \"조심스럽고 많이 떨렸다\"",
+        "source": "파이낸셜뉴스",
+        "category": "문화",
+        "time": "16시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WTUdVd2p0QzB3cEpGaWdqelp2RmoxTHRpejNtT2tDSWxJaTBCUWRPN2M0VUtDeV8tX3NjWHJHaGlETXRUMVpyMGcyLXJrVjRGM3J4bk1FaTdmQQ?oc=5",
+        "views": 17515,
+        "pubDate": "Thu, 09 Jul 2026 08:11:03 GMT",
+        "trending": "down",
+        "trendPercent": 9,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WTUdVd2p0QzB3cEpGaWdqelp2RmoxTHRpejNtT2tDSWxJaTBCUWRPN2M0VUtDeV8tX3NjWHJHaGlETXRUMVpyMGcy…",
+        "keywords": [
+          "음주운전",
+          "적발",
+          "무대",
+          "이루"
+        ]
+      },
+      {
+        "rank": 7,
+        "title": "이동건, 제주 카페 접더니 틱톡 라이브…\"후원에 감사\"",
+        "source": "한국경제",
+        "category": "문화",
+        "time": "33분 전",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaYnB6NlJCV0JzZDdJSmJhanVsU000d2tJV2hPazZoYU1Eak16dDVxbjlBNzNyNGM0TVlUR2N5ZWpoRU9DMmJ4bG9PaWFkbklxOUh1NEoxdVFpZ9IBVEFVX3lxTE1MdXJaSlZBUTBKQzRSV293S2xPNHluY1BsOUtORVJpcEZsWmFjVm12ZUV6bkM1Yzl6SkEyWGVwN01fSnpYRDZFTGNpdU5DNEZyOVMzTg?oc=5",
+        "views": 22404,
+        "pubDate": "Fri, 10 Jul 2026 00:35:10 GMT",
+        "trending": "neutral",
+        "trendPercent": 12,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaYnB6NlJCV0JzZDdJSmJhanVsU000d2tJV2hPazZoYU1Eak16dDVxbjlBNzNyNGM0TVlUR2N5ZWpoRU9DMmJ4bG9P…",
+        "keywords": [
+          "이동건",
+          "제주",
+          "카페",
+          "접더니"
+        ]
+      },
+      {
+        "rank": 8,
+        "title": "“거제 야호”로 뜬 리센느, 2년전 노래 역주행해 1위",
+        "source": "동아일보",
+        "category": "문화",
+        "time": "5시간 전",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1COUdMRmhtQlpXZmx0dVJOMk9YOXhYVVBIa3VZRl9VVzhxNGhZR1BOWWloMldCZW8yVkd5UjU1TGJmdi1HZnlsZXhNdzdSTG5wc1lLM1MxM2QycHl4Wm5IX1hGSm5qa05tblVMZWRaN0pqX2c50gFmQVVfeXFMT0owRGpLWllXSExwOUhIWG5TY1p0NEZVNW91ckpfdHNwQjJqeDcwMnNuUGZBTG9oeGNvZW5DcUpiQzl2bTRVdDU1c3BYN3ZBdEQ0Z2ZTb2l0bk5relI1SnQxWlZFMDN3?oc=5",
+        "views": 13435,
+        "pubDate": "Thu, 09 Jul 2026 19:30:00 GMT",
+        "trending": "neutral",
+        "trendPercent": 40,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1COUdMRmhtQlpXZmx0dVJOMk9YOXhYVVBIa3VZRl9VVzhxNGhZR1BOWWloMldCZW8yVkd5UjU1TGJmdi1HZnlsZXhN…",
+        "keywords": [
+          "거제",
+          "야호로",
+          "리센느",
+          "2년전"
+        ]
+      },
+      {
+        "rank": 9,
+        "title": "’김수현 명예훼손’ 김세의 옥중호소…“영치금 가압류로 생수·휴지도 못 사“",
+        "source": "연합뉴스TV",
+        "category": "문화",
+        "time": "14분 전",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80SFJYVWZSLXA3WUN4SmRlLU9maFJxOU9rVmZLNjBkQzBWTG1USGRXeDJ0UXBJNlJkLWRHdXZlMHpGeU9OTHc2ckdTS0R0WnJDZEt1eHkwZjU4aGZGLUZjVmFvLVRPU2c?oc=5",
+        "views": 17822,
+        "pubDate": "Fri, 10 Jul 2026 00:54:00 GMT",
+        "trending": "neutral",
+        "trendPercent": 7,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80SFJYVWZSLXA3WUN4SmRlLU9maFJxOU9rVmZLNjBkQzBWTG1USGRXeDJ0UXBJNlJkLWRHdXZlMHpGeU9OTHc2ckdT…",
+        "keywords": [
+          "김수현",
+          "명예훼손",
+          "김세의",
+          "옥중호소"
+        ]
+      },
+      {
+        "rank": 10,
+        "title": "‘아파트’ 지성-하윤경-김원해-정순원-황희-김규원 “우리는 ‘간헐적 가족’ 입니다!”",
+        "source": "스포츠경향",
+        "category": "문화",
+        "time": "15시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Gb2FEQnIxUmVzZW8wRU92SXBiN29vdUx0Z3NxendZQlhJc2dJelRXek05UmxlYWxzeWJMUVFYWHNLVDZMMkE5MklXV2lyY1M4TkE1NDZBaFBfVWs1RnfSAWNBVV95cUxPdXk4WHZmUEV2WEFsWnhXVEFTMTFvZjNBLXBhZFVzQnZmenA1ejV5eUo0MFpWSVNsYVJZdmt6UDZ3ZDZ6U0o4ZXowRlBjNFQwTmtKNjBLaldOcXFfWnpBbi1xNmc?oc=5",
+        "views": 15280,
+        "pubDate": "Thu, 09 Jul 2026 09:45:00 GMT",
+        "trending": "neutral",
+        "trendPercent": 20,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Gb2FEQnIxUmVzZW8wRU92SXBiN29vdUx0Z3NxendZQlhJc2dJelRXek05UmxlYWxzeWJMUVFYWHNLVDZMMkE5MklX…",
+        "keywords": [
+          "아파트",
+          "지성",
+          "하윤경",
+          "김원해"
+        ]
+      }
+    ],
+    "스포츠": [
+      {
+        "rank": 1,
+        "title": "‘이변은 없었다’ 프랑스, 모로코 2-0 완파···3회 연속 월드컵 4강, 음바페 8호골 득점 공동 선두",
+        "source": "경향신문",
+        "category": "스포츠",
+        "time": "2시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wYUxzcERyaWFHVU9HQTRzbDNjbU1uckp0TnI3bm9Val9GZFVuT01qQ01CSnBlLUx4NC1ISjNmdzYtUC1JNlBWOTFNU2JGTWFMUlozbmFLQkpZdw?oc=5",
+        "views": 97027,
+        "pubDate": "Thu, 09 Jul 2026 22:23:00 GMT",
+        "trending": "up",
+        "trendPercent": 27,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wYUxzcERyaWFHVU9HQTRzbDNjbU1uckp0TnI3bm9Val9GZFVuT01qQ01CSnBlLUx4NC1ISjNmdzYtUC1JNlBWOTFN…",
+        "keywords": [
+          "이변은",
+          "없었다",
+          "프랑스",
+          "모로코"
+        ]
+      },
+      {
+        "rank": 2,
+        "title": "4대 천왕 모두 살아남았다…불붙은 월드컵 득점왕 경쟁",
+        "source": "news.sbs.co.kr",
+        "category": "스포츠",
+        "time": "12시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0SFFrUXNhLUM4YzdaNzJ5TmFVbERsTERwYUdFVWlYdmUyUTdad2JGMFc1X1VYSzJwVUY5S0F2UU51ajBmSFNqWWplbVlYRG5pSjR2ZDRhVHZ1M1llM3Y3WkRzNDhnN3hMU1E?oc=5",
+        "views": 49639,
+        "pubDate": "Thu, 09 Jul 2026 12:17:00 GMT",
+        "trending": "up",
+        "trendPercent": 30,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB0SFFrUXNhLUM4YzdaNzJ5TmFVbERsTERwYUdFVWlYdmUyUTdad2JGMFc1X1VYSzJwVUY5S0F2UU51ajBmSFNqWWpl…",
+        "keywords": [
+          "4대",
+          "천왕",
+          "모두",
+          "살아남았다"
+        ]
+      },
+      {
+        "rank": 3,
+        "title": "국회 ‘증인 홍명보-참고인 손흥민’ 22일 축구협회 청문회",
+        "source": "동아일보",
+        "category": "스포츠",
+        "time": "5시간 전",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FSlNwUTJxaG5EM0hhYko4S0lhdlY4TVFabjNoUHc1MmU1bl9ncU81YVYtS2llMVprd18wUmZxeUZVelloYnVUZTdWM1F5Y29YMThjRzJ1V3c5MjVaZFVLd2xhblVuZVhvRURxeG9rR1FJZTY0aDUw?oc=5",
+        "views": 34503,
+        "pubDate": "Thu, 09 Jul 2026 19:30:00 GMT",
+        "trending": "up",
+        "trendPercent": 27,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1FSlNwUTJxaG5EM0hhYko4S0lhdlY4TVFabjNoUHc1MmU1bl9ncU81YVYtS2llMVprd18wUmZxeUZVelloYnVUZTdW…",
+        "keywords": [
+          "국회",
+          "증인",
+          "홍명보",
+          "참고인"
+        ]
+      },
+      {
+        "rank": 4,
+        "title": "\"EPL 승격한 헐시티, 베식타시 골잡이 오현규 영입에 관심\"",
+        "source": "조선일보",
+        "category": "스포츠",
+        "time": "17시간 전",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIWVExdHRkaHRHMmpQWXN3enlFWUxCdlhCRUZWMjM2UHkwRlRMbGg4TTFQaHA4UDZ0OXpBd2tJUFFDOGpVdHRjeUdyRHlabTM0RGFkbVE0MkJteEtqMVRMSGxfUUNCNC1VY1N5MV9iWnhOY1lRRHUw?oc=5",
+        "views": 30294,
+        "pubDate": "Thu, 09 Jul 2026 07:57:00 GMT",
+        "trending": "neutral",
+        "trendPercent": 39,
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBIWVExdHRkaHRHMmpQWXN3enlFWUxCdlhCRUZWMjM2UHkwRlRMbGg4TTFQaHA4UDZ0OXpBd2tJUFFDOGpVdHRjeUdyRHlabTM0…",
+        "keywords": [
+          "EPL",
+          "승격한",
+          "헐시티",
+          "베식타시"
+        ]
+      },
+      {
+        "rank": 5,
+        "title": "삼성, LG 제치고 2026시즌 프로야구 전반기 선두로 마쳐",
+        "source": "조선일보",
+        "category": "스포츠",
+        "time": "10시간 전",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdlBocWpNZ0hOTElfbTVwdllVSUhORHpVZFVCbTlsMGJBYUREbV9jQ3RuREEyTWRmdE1pSURVLU82c0xvV3drRzZ1TTVfN1ZlX3otTEJaMlpNVk9KSk10ZThTRE55bUpGM1UtVS1xd0FJRU14Uy0wM2lfSU42NlE1Xy1qTQ?oc=5",
+        "views": 18872,
+        "pubDate": "Thu, 09 Jul 2026 15:08:00 GMT",
+        "trending": "neutral",
+        "trendPercent": 32,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNdlBocWpNZ0hOTElfbTVwdllVSUhORHpVZFVCbTlsMGJBYUREbV9jQ3RuREEyTWRmdE1pSURVLU82c0xvV3drRzZ1…",
+        "keywords": [
+          "삼성",
+          "LG",
+          "제치고",
+          "2026시즌"
+        ]
+      },
+      {
+        "rank": 6,
+        "title": "모리야스, 반년 뒤 떠난다…일본 축구협회 ‘이별 통보’",
+        "source": "한겨레",
+        "category": "스포츠",
+        "time": "23시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaW91UHg2cFlPWDlVdDdnSEpzTHJ5RFUxWUZtUjc2a0J3a1BLLW5lY3VMdmducV9kRDRTODMyMHFaRGRTN3VHbG5iMkJqRmN2UHZYTjA0OURpbzZJdzRtZkpRRzlMSkxFMmVtSHpobUZoS1oyVFg5alYtek9oRE9kejd3?oc=5",
+        "views": 18357,
+        "pubDate": "Thu, 09 Jul 2026 01:59:00 GMT",
+        "trending": "down",
+        "trendPercent": 34,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQaW91UHg2cFlPWDlVdDdnSEpzTHJ5RFUxWUZtUjc2a0J3a1BLLW5lY3VMdmducV9kRDRTODMyMHFaRGRTN3VHbG5i…",
+        "keywords": [
+          "모리야스",
+          "반년",
+          "떠난다",
+          "일본"
+        ]
+      },
+      {
+        "rank": 7,
+        "title": "'8강 대진표 확정' 월드컵 우승 확률 공개, 메시의 아르헨은 '3위'",
+        "source": "starnewskorea.com",
+        "category": "스포츠",
+        "time": "27시간 전",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0WmpPRDBlS3pJTTVQUmF1YV8tNF9KUFB2Q3RLQUFFNWUyWEs0Z2g1cEtDU0h5Y2ZvZWlVMkNNYjZFcVZ6N1NpRFlfczlQRUVyamNXUGswQk9lWU1KZnVUcjVpbXZ1T2dCQnBuM2dxOE9ZQ3VWWEE?oc=5",
+        "views": 12910,
+        "pubDate": "Wed, 08 Jul 2026 21:52:54 GMT",
+        "trending": "neutral",
+        "trendPercent": 8,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFA0WmpPRDBlS3pJTTVQUmF1YV8tNF9KUFB2Q3RLQUFFNWUyWEs0Z2g1cEtDU0h5Y2ZvZWlVMkNNYjZFcVZ6N1NpRFlf…",
+        "keywords": [
+          "8강",
+          "대진표",
+          "확정",
+          "월드컵"
+        ]
+      },
+      {
+        "rank": 8,
+        "title": "백악관, ‘발로건 퇴장 번복’에 “심판이 과거 승부조작 연루” 또 남 탓",
+        "source": "경향신문",
+        "category": "스포츠",
+        "time": "25시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LWkdkdXgxdFo1OVFyMEdNTkc0RG5rd1ZwS1ozaVZORlJuUWdIY21pU2ZyWDVkRXE5V2Zacl9QanJBbUtTdE8zUlk3cEs1NWpXeDVoMVA5c2lpQdIBX0FVX3lxTFBVQzc3MDl4QzlQeHQ5ZjFUeDhIMDBTWXdQVS16anN3NTg2SkpGQnFFTFhoWVVuS0FDNU5fWTV4cTE4WUJELVBBbWZ2anota2RBU1RVUTBacmszNDJaUmlj?oc=5",
+        "views": 16959,
+        "pubDate": "Wed, 08 Jul 2026 23:33:00 GMT",
+        "trending": "neutral",
+        "trendPercent": 12,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LWkdkdXgxdFo1OVFyMEdNTkc0RG5rd1ZwS1ozaVZORlJuUWdIY21pU2ZyWDVkRXE5V2Zacl9QanJBbUtTdE8zUlk3…",
+        "keywords": [
+          "백악관",
+          "발로건",
+          "퇴장",
+          "번복에"
+        ]
+      },
+      {
+        "rank": 9,
+        "title": "[단독] “회장은 자금줄이 있어야” 해놓고…정몽규, 13년간 개인 사재 출연 ‘3천만 원’?",
+        "source": "KBS 뉴스",
+        "category": "스포츠",
+        "time": "12시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aQ2xKNzdVRTRPem5tdDhNcTZvQXl4R2Z4WjZ1c3FpRmNySEI0MGdyT3ZnUnFtQk1ldm5OaVk1ZS0yTkZ3UXN4bmg1Qm05Uzh2aDMzcFFCbldGOXM?oc=5",
+        "views": 17916,
+        "pubDate": "Thu, 09 Jul 2026 12:18:00 GMT",
+        "trending": "down",
+        "trendPercent": 30,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aQ2xKNzdVRTRPem5tdDhNcTZvQXl4R2Z4WjZ1c3FpRmNySEI0MGdyT3ZnUnFtQk1ldm5OaVk1ZS0yTkZ3UXN4bmg1…",
+        "keywords": [
+          "단독",
+          "회장은",
+          "자금줄이",
+          "있어야"
+        ]
+      },
+      {
+        "rank": 10,
+        "title": "\"선수들에게 미안하다\" 이민성 감독 사과, '최고 활약' 선수들 AG 충격 탈락",
+        "source": "네이트",
+        "category": "스포츠",
+        "time": "22시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RaVh4QzB2b1JZQlZYdXdNTkVoU1pib1l0UzRiTmZKaHptek1UMGpwZGhjYVZiRGZaSFgxdDlCRGdHVE5qTFBpOURFSlM0VEg2NnhIb1E0OE5hTEZV?oc=5",
+        "views": 9971,
+        "pubDate": "Thu, 09 Jul 2026 02:54:00 GMT",
+        "trending": "neutral",
+        "trendPercent": 11,
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RaVh4QzB2b1JZQlZYdXdNTkVoU1pib1l0UzRiTmZKaHptek1UMGpwZGhjYVZiRGZaSFgxdDlCRGdHVE5qTFBpOURF…",
+        "keywords": [
+          "선수들에게",
+          "미안하다",
+          "이민성",
+          "감독"
+        ]
+      }
+    ],
+    "사회": [
+      {
+        "rank": 1,
+        "title": "식당서 음식에 화학물질 섞어 남편 살해한 50대 여성 구속",
+        "source": "연합뉴스",
+        "category": "사회",
+        "time": "26시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uS2g1NlluQjE0NHdiT2ZnS3VTaEM4NVQxWERRWUZJNGRKVTJpeGcwcldzSFp2UFFNU1RybHJrQXFEU3Nyc3h5VlR5ZGtIUUFJNzVwdmE2bUlXOUHSAWBBVV95cUxQSWE3RTgtSlloeUJNNWF6SmNiN2hKQThYTExsS0ZLMWtBd3pUZlBaSkR6MVZ2UXNfSE1mU0VqS29QV1ZScG1uQkV2Zkh6X1NBRmduRl9vMzhUZ3NzZklYcTE?oc=5",
+        "views": 91201,
+        "pubDate": "Wed, 08 Jul 2026 22:24:28 GMT",
+        "trending": "up",
+        "trendPercent": 34,
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uS2g1NlluQjE0NHdiT2ZnS3VTaEM4NVQxWERRWUZJNGRKVTJpeGcwcldzSFp2UFFNU1RybHJrQXFEU3Nyc3h5VlR5ZGtIUUFJ…",
+        "keywords": [
+          "식당서",
+          "음식에",
+          "화학물질",
+          "섞어"
+        ]
+      },
+      {
+        "rank": 2,
+        "title": "한국판 스타링크 추진… 저궤도 위성 최대 512기 띄운다",
+        "source": "조선일보",
+        "category": "사회",
+        "time": "33시간 전",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU1N4bF9fSGdldldHWk5jSW1XQTRxaXptRDdpQUlqUUZkODl0RHd5MExkY1J0SDE1VzJocmJkbGdaWnJlTlVWdk5YalIwc1RkakROU3NEUjNETXVmczNZd2FFX3o3Qy1UY1FOSnhReE4xZEprR1kyaUJJbWFpMFJOeWU1TQ?oc=5",
+        "views": 52188,
+        "pubDate": "Wed, 08 Jul 2026 15:40:27 GMT",
+        "trending": "up",
+        "trendPercent": 26,
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNU1N4bF9fSGdldldHWk5jSW1XQTRxaXptRDdpQUlqUUZkODl0RHd5MExkY1J0SDE1VzJocmJkbGdaWnJlTlVWdk5YalIwc1Rk…",
+        "keywords": [
+          "한국판",
+          "스타링크",
+          "추진",
+          "저궤도"
+        ]
+      },
+      {
+        "rank": 3,
+        "title": "과학자끼리도 “AI 썼나” 서로 의심… 허위 논문 철회도 급증",
+        "source": "동아일보",
+        "category": "사회",
+        "time": "29시간 전",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1ODZiZDd3ZnlQT3hTZFV0aTZxTzZocjgwZ1F5VTlqX1ZuclE4aVZZbUg1NUQ0dExjTVJObGFGRmFZUDkyYkVpbm40eExUUW0tN25rZVZZdlFPblN1WHdaOU9xVkpnb0xueUxuN3hXeUdZc2VlSHfSAWZBVV95cUxNcXpzWm5zZERGeU9uaW9wUGdqY3BnT2o1eUxGLWhROXBJTkV1OFNMc08yOXpuUUI2dE0tYVRmallzYkl0bnpEM3pVWnk1RTQyX1Ayb1FxV0xkZnY3a2VsejhmR2RFY2c?oc=5",
+        "views": 32295,
+        "pubDate": "Wed, 08 Jul 2026 19:30:00 GMT",
+        "trending": "up",
+        "trendPercent": 21,
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFA1ODZiZDd3ZnlQT3hTZFV0aTZxTzZocjgwZ1F5VTlqX1ZuclE4aVZZbUg1NUQ0dExjTVJObGFGRmFZUDkyYkVpbm40eExUUW0t…",
+        "keywords": [
+          "과학자끼리도",
+          "AI",
+          "썼나",
+          "서로"
+        ]
+      },
+      {
+        "rank": 4,
+        "title": "심해 2000m도 미세플라스틱 못 피했다",
+        "source": "조선일보",
+        "category": "사회",
+        "time": "18시간 전",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaFZrcmR5OW9ZVXlFSWFiSzF1NHpSc1lRb2VDVGpVZzNOcGxIZmRubHNtYVp0Yl9vV3daeklESEZjOC03UHRWNDVHYWZRX091b1Nza1FxYV83NkF5djdaV2g3MU9zWVM5Zld1QWxoY3B5OUROLUJjTkQ1LWRKU2RtVUM4UQ?oc=5",
+        "views": 26568,
+        "pubDate": "Thu, 09 Jul 2026 06:51:46 GMT",
+        "trending": "neutral",
+        "trendPercent": 38,
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQaFZrcmR5OW9ZVXlFSWFiSzF1NHpSc1lRb2VDVGpVZzNOcGxIZmRubHNtYVp0Yl9vV3daeklESEZjOC03UHRWNDVHYWZRX091…",
+        "keywords": [
+          "심해",
+          "2000m도",
+          "미세플라스틱",
+          "피했다"
+        ]
+      },
+      {
+        "rank": 5,
+        "title": "\"전기는 막고 열만 뺍니다\"...액체 금속으로 AI 냉각 난제 푼 웨어플루",
+        "source": "지디넷코리아",
+        "category": "사회",
+        "time": "25시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5teTlYS2ZfbUM0UWI3dXJGeVNVUklqdHhpNXlXR05RRnR1dHhYZ2Z0S0JYYzlZWUE5SkFiN004VlUxMFVxaGlHaWUxVF9yeFN4OGs2VFpn?oc=5",
+        "views": 22257,
+        "pubDate": "Wed, 08 Jul 2026 23:37:24 GMT",
+        "trending": "neutral",
+        "trendPercent": 7,
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5teTlYS2ZfbUM0UWI3dXJGeVNVUklqdHhpNXlXR05RRnR1dHhYZ2Z0S0JYYzlZWUE5SkFiN004VlUxMFVxaGlHaWUxVF9yeFN4…",
+        "keywords": [
+          "전기는",
+          "막고",
+          "열만",
+          "뺍니다액체"
+        ]
+      },
+      {
+        "rank": 6,
+        "title": "\"연료 없이 우주선 움직인다\"…초전도 자석 추진기 시험 성공 [우주로 간다]",
+        "source": "v.daum.net",
+        "category": "사회",
+        "time": "19시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xLWFIUVplT2lkUHlZUEJ0SXBGdm9Zemx0RVpza1gya0ZyQVA2eXFvR2I4empudnBNWWRjM3VWMFdHYXFRVXo1eDA3V0ptc3c?oc=5",
+        "views": 20975,
+        "pubDate": "Thu, 09 Jul 2026 05:46:49 GMT",
+        "trending": "neutral",
+        "trendPercent": 41,
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xLWFIUVplT2lkUHlZUEJ0SXBGdm9Zemx0RVpza1gya0ZyQVA2eXFvR2I4empudnBNWWRjM3VWMFdHYXFRVXo1eDA3V0ptc3c?…",
+        "keywords": [
+          "연료",
+          "없이",
+          "우주선",
+          "움직인다"
+        ]
+      },
+      {
+        "rank": 7,
+        "title": "28만 이공계 인재공백…해답은 '경력단절' 여성 과학자 15만명에 있다",
+        "source": "한국일보",
+        "category": "사회",
+        "time": "49시간 전",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CQzZsdDdjZml2SWtJclBjU0lJRmZ0YU5CRkt4THFJYk9WQ1F4UGotdlZBTTBHeW91Vlc4RmJDUXZFa2txd1Z2a2FWZEpIN1ZEYnZlX0pvcjVlTGVzV3c4b3k0akNGSXR4bUFSSWFB?oc=5",
+        "views": 19044,
+        "pubDate": "Wed, 08 Jul 2026 00:00:00 GMT",
+        "trending": "neutral",
+        "trendPercent": 47,
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1CQzZsdDdjZml2SWtJclBjU0lJRmZ0YU5CRkt4THFJYk9WQ1F4UGotdlZBTTBHeW91Vlc4RmJDUXZFa2txd1Z2a2FWZEpIN1ZE…",
+        "keywords": [
+          "28만",
+          "이공계",
+          "인재공백",
+          "해답은"
+        ]
+      },
+      {
+        "rank": 8,
+        "title": "자는 동안 뇌가 노폐물 청소 잘하고 있을까··· 이마에 붙이는 장비로 간편하게 확인한다",
+        "source": "경향신문",
+        "category": "사회",
+        "time": "19시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zY2VfVUdMOXNmcjJlMVhkTlhtR1BtcVVWUFd2MWhxQjJYeDhYMEdTaTFNUTB3SzVDN0dqaVV5YlU1V2dZZ3k5S0ppb2o5Y1JaUWpQS0duR3lSd9IBX0FVX3lxTE1jaDgzMTNfeDZiNlhKOFFaUWIwV2o3bGl1ZHJrMURveEFlNWl0amFYcFhIV0lQWC0wSDZXOEpQUWFZbXhQcHlYcTByWXV5TVhUUXJMRUhSeGZkdjU2ekxz?oc=5",
+        "views": 14659,
+        "pubDate": "Thu, 09 Jul 2026 05:58:00 GMT",
+        "trending": "neutral",
+        "trendPercent": 15,
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zY2VfVUdMOXNmcjJlMVhkTlhtR1BtcVVWUFd2MWhxQjJYeDhYMEdTaTFNUTB3SzVDN0dqaVV5YlU1V2dZZ3k5S0ppb2o5Y1Ja…",
+        "keywords": [
+          "자는",
+          "동안",
+          "뇌가",
+          "노폐물"
+        ]
+      },
+      {
+        "rank": 9,
+        "title": "‘자신의 무가치함’과 싸울 때 필요한 것, 평생지기[고영건의 행복 견문록]",
+        "source": "동아일보",
+        "category": "사회",
+        "time": "35시간 전",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmYkNkel93THhSNkp4U0pwLTltQlVPNWlKR3Fxa2F6NWFUVTgtU2plMG1Wd2NITGg2anAxOFhPUGlOS0hfVm9UX3lON01kYVlhNi1WSHQyLVpyY0FQR3ZVQldxRFNzX1dGRjlEYWFqQ2VLUlM5SmfSAWZBVV95cUxPNXhpS19wMk1Fc2xpOFdsNEFYSTlkUTBRSDE5eTR4eUYtRzlHLWJ2Q3NONXdSQU1aNGFYczRHbFVnLTRkd3hwS1BZMUdCMUxhdWlPNE1xX1N5S2cwRkdxQmliMVdBdUE?oc=5",
+        "views": 10273,
+        "pubDate": "Wed, 08 Jul 2026 14:00:00 GMT",
+        "trending": "down",
+        "trendPercent": 40,
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBmYkNkel93THhSNkp4U0pwLTltQlVPNWlKR3Fxa2F6NWFUVTgtU2plMG1Wd2NITGg2anAxOFhPUGlOS0hfVm9UX3lON01kYVlh…",
+        "keywords": [
+          "자신의",
+          "무가치함과",
+          "싸울",
+          "필요한"
+        ]
+      },
+      {
+        "rank": 10,
+        "title": "줄조명 같은 해파리 신종…6월 최고의 과학 사진",
+        "source": "동아사이언스",
+        "category": "사회",
+        "time": "65시간 전",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50bFlVanZHWlNmXzdBTFZRU25ZVGpabE1MMmlET1A3bXpXQ2gtVG9tRGlxZmVnNXVmQS0zNF9FeURMcDVDR1JwbXZMbERILWVoR0RZbw?oc=5",
+        "views": 14950,
+        "pubDate": "Tue, 07 Jul 2026 07:49:00 GMT",
+        "trending": "neutral",
+        "trendPercent": 30,
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE50bFlVanZHWlNmXzdBTFZRU25ZVGpabE1MMmlET1A3bXpXQ2gtVG9tRGlxZmVnNXVmQS0zNF9FeURMcDVDR1JwbXZMbERILWVo…",
+        "keywords": [
+          "줄조명",
+          "같은",
+          "해파리",
+          "신종"
+        ]
+      }
+    ]
   },
-  "top10": []
+  "top10": [
+    {
+      "rank": 1,
+      "title": "\"이스라엘, 미국에 '이란이 트럼프 암살 계획' 첩보 전달\"",
+      "source": "연합뉴스",
+      "category": "세계",
+      "time": "1시간 전",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KM0VoTmMtVlpjX2xBd0p2cWNsQ25JMnNkSzA1TzRENEZfS0NvZWF6SHdyVzNuU3lYY3hLOUZMOThGRjVXd21JTWNTZGRyRDFMTk5iTkVtN085T2vSAWBBVV95cUxNUFg5M19oSEtCTWx0NVJkVTVWZU0teVF2NUhhQzNIdlhCUERuYnd6TElSUjRpMXFCT1FHZjZjenBZMExfVFlPTVp4SHdCTkV4NWRRRnl1TFBVMk5WelQzMDU?oc=5",
+      "views": 99856,
+      "pubDate": "Thu, 09 Jul 2026 23:53:29 GMT",
+      "trending": "up",
+      "trendPercent": 13,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KM0VoTmMtVlpjX2xBd0p2cWNsQ25JMnNkSzA1TzRENEZfS0NvZWF6SHdyVzNuU3lYY3hLOUZMOThGRjVXd21JTWNTZGRyRDFM…",
+      "keywords": [
+        "이스라엘",
+        "미국에",
+        "이란이",
+        "트럼프"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "[속보] SK하이닉스 ADR 공모가 149달러 확정···외국기업 IPO 사상 최대",
+      "source": "경향신문",
+      "category": "경제",
+      "time": "1시간 전",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxQnFYWUY3cUhxdVRJTHp3TDNxb3QxX2wxZEQxRG9UaTVzTWQtU1BwUW5hTkR5cXEwdm5Qa0tIcHdHRWFBaDVFVGlKbUN2TmlhZjcyVi1LQ0Z3d9IBX0FVX3lxTE5PRDZGQVJMbEp1ZTJ4R2NWUHExdkhlaXpiUG16VExkTXBwYVpXdWxjSUlqcFRha0ozd2JKOTk2bjVIVVlRbER0YUdyakpSc194R0F5STRhYW5CRFJ3NE5F?oc=5",
+      "views": 99583,
+      "pubDate": "Thu, 09 Jul 2026 23:13:00 GMT",
+      "trending": "up",
+      "trendPercent": 26,
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxQnFYWUY3cUhxdVRJTHp3TDNxb3QxX2wxZEQxRG9UaTVzTWQtU1BwUW5hTkR5cXEwdm5Qa0tIcHdHRWFBaDVFVGlK…",
+      "keywords": [
+        "속보",
+        "SK하이닉스",
+        "ADR",
+        "공모가"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "‘이변은 없었다’ 프랑스, 모로코 2-0 완파···3회 연속 월드컵 4강, 음바페 8호골 득점 공동 선두",
+      "source": "경향신문",
+      "category": "스포츠",
+      "time": "2시간 전",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wYUxzcERyaWFHVU9HQTRzbDNjbU1uckp0TnI3bm9Val9GZFVuT01qQ01CSnBlLUx4NC1ISjNmdzYtUC1JNlBWOTFNU2JGTWFMUlozbmFLQkpZdw?oc=5",
+      "views": 97027,
+      "pubDate": "Thu, 09 Jul 2026 22:23:00 GMT",
+      "trending": "up",
+      "trendPercent": 27,
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wYUxzcERyaWFHVU9HQTRzbDNjbU1uckp0TnI3bm9Val9GZFVuT01qQ01CSnBlLUx4NC1ISjNmdzYtUC1JNlBWOTFN…",
+      "keywords": [
+        "이변은",
+        "없었다",
+        "프랑스",
+        "모로코"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "\"광화문 걷는 젠슨 황 그려줘\" 메타·구글·오픈AI에 같은 요구해봤더니",
+      "source": "네이트",
+      "category": "기술",
+      "time": "4시간 전",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GSkdMQXRJbzdfbGNfaXlDRV90ZFlOV2NmWFVtU29CMWJSeDM5UUk4LTNiX2dYeU1EZTdlZUZ1TTZ4dF9iWlpPRXdFbmt4WVpINkJR?oc=5",
+      "views": 96823,
+      "pubDate": "Thu, 09 Jul 2026 21:02:00 GMT",
+      "trending": "up",
+      "trendPercent": 13,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GSkdMQXRJbzdfbGNfaXlDRV90ZFlOV2NmWFVtU29CMWJSeDM5UUk4LTNiX2dYeU1EZTdlZUZ1TTZ4dF9iWlpPRXdFbmt4WVpI…",
+      "keywords": [
+        "광화문",
+        "걷는",
+        "젠슨",
+        "그려줘"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "유재성 경찰청장 직무대행 조기 귀국‥\"'장윤기 사건' 매우 송구\"",
+      "source": "MBC 뉴스",
+      "category": "정치",
+      "time": "3시간 전",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4Xzl0b2VRdEh3RWFWZ3o1dVFDT1Nmc2dEVGFPeDhBZFFHZU93bFZLcUlFc3dMc0FTUEJjc19sVmMwck5HQWVOSU1wcUtjRWVDTTY5Y1BlQ0dxY3V2emVYOEtGU3ZZbnlDbGxiRUdLLXFGbXJjbkNZ0gF3QVVfeXFMUDl2SnVkLXJYSWVsVU5kajB2ZC1kQnViM1JVY3pZQUx4Y1JkRFM1N3VhNFU3ZlBoRnEwdlEyd1JabWhGOHN5MUkyQ2lBMGtTb2dCaVhVUHRVejdLZHY3cE9QTkZkdnpjOHJMNDhjRzM3eW1aa1ZaaEk?oc=5",
+      "views": 93301,
+      "pubDate": "Thu, 09 Jul 2026 21:19:03 GMT",
+      "trending": "up",
+      "trendPercent": 36,
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFB4Xzl0b2VRdEh3RWFWZ3o1dVFDT1Nmc2dEVGFPeDhBZFFHZU93bFZLcUlFc3dMc0FTUEJjc19sVmMwck5HQWVOSU1w…",
+      "keywords": [
+        "유재성",
+        "경찰청장",
+        "직무대행",
+        "조기"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "홍상수·김민희 새 영화, 로카르노 영화제 초청…\"위대한 거장\"",
+      "source": "YTN",
+      "category": "문화",
+      "time": "18분 전",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyVXpiSmhSOG9FZnQxdW9tSWNRNzYyUU5LNHIxb3BxMlV0WXJKMGszaUpaZEVEb2JyV0dGbkx0UHd6dHlzZlBGOTNMSm9La2VBbDl1NlBscVIwZ05YOUpZ?oc=5",
+      "views": 92872,
+      "pubDate": "Fri, 10 Jul 2026 00:50:00 GMT",
+      "trending": "up",
+      "trendPercent": 34,
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyVXpiSmhSOG9FZnQxdW9tSWNRNzYyUU5LNHIxb3BxMlV0WXJKMGszaUpaZEVEb2JyV0dGbkx0UHd6dHlzZlBGOTNM…",
+      "keywords": [
+        "홍상수",
+        "김민희",
+        "영화",
+        "로카르노"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "식당서 음식에 화학물질 섞어 남편 살해한 50대 여성 구속",
+      "source": "연합뉴스",
+      "category": "사회",
+      "time": "26시간 전",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uS2g1NlluQjE0NHdiT2ZnS3VTaEM4NVQxWERRWUZJNGRKVTJpeGcwcldzSFp2UFFNU1RybHJrQXFEU3Nyc3h5VlR5ZGtIUUFJNzVwdmE2bUlXOUHSAWBBVV95cUxQSWE3RTgtSlloeUJNNWF6SmNiN2hKQThYTExsS0ZLMWtBd3pUZlBaSkR6MVZ2UXNfSE1mU0VqS29QV1ZScG1uQkV2Zkh6X1NBRmduRl9vMzhUZ3NzZklYcTE?oc=5",
+      "views": 91201,
+      "pubDate": "Wed, 08 Jul 2026 22:24:28 GMT",
+      "trending": "up",
+      "trendPercent": 34,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uS2g1NlluQjE0NHdiT2ZnS3VTaEM4NVQxWERRWUZJNGRKVTJpeGcwcldzSFp2UFFNU1RybHJrQXFEU3Nyc3h5VlR5ZGtIUUFJ…",
+      "keywords": [
+        "식당서",
+        "음식에",
+        "화학물질",
+        "섞어"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "캐나다 잠수함 고배는 매크로 악재…조선 3사 목표가 줄하향",
+      "source": "매일경제 마켓",
+      "category": "경제",
+      "time": "44분 전",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGV1pPSHpfakJJT2JOZGVpUDV5cDd1U0s2OXBqZFlzcXpEUzc1UktvVEw1VWp2ZmIzYWJvemRIWVpNVEQyNDRYbkFzSEc2RllFUWc?oc=5",
+      "views": 52557,
+      "pubDate": "Fri, 10 Jul 2026 00:24:14 GMT",
+      "trending": "up",
+      "trendPercent": 28,
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGV1pPSHpfakJJT2JOZGVpUDV5cDd1U0s2OXBqZFlzcXpEUzc1UktvVEw1VWp2ZmIzYWJvemRIWVpNVEQyNDRYbkFz…",
+      "keywords": [
+        "캐나다",
+        "잠수함",
+        "고배는",
+        "매크로"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "한국판 스타링크 추진… 저궤도 위성 최대 512기 띄운다",
+      "source": "조선일보",
+      "category": "사회",
+      "time": "33시간 전",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU1N4bF9fSGdldldHWk5jSW1XQTRxaXptRDdpQUlqUUZkODl0RHd5MExkY1J0SDE1VzJocmJkbGdaWnJlTlVWdk5YalIwc1RkakROU3NEUjNETXVmczNZd2FFX3o3Qy1UY1FOSnhReE4xZEprR1kyaUJJbWFpMFJOeWU1TQ?oc=5",
+      "views": 52188,
+      "pubDate": "Wed, 08 Jul 2026 15:40:27 GMT",
+      "trending": "up",
+      "trendPercent": 26,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNU1N4bF9fSGdldldHWk5jSW1XQTRxaXptRDdpQUlqUUZkODl0RHd5MExkY1J0SDE1VzJocmJkbGdaWnJlTlVWdk5YalIwc1Rk…",
+      "keywords": [
+        "한국판",
+        "스타링크",
+        "추진",
+        "저궤도"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "218만원 SK하이닉스에 '목표가 185만원' 제시한 증권사",
+      "source": "한국경제",
+      "category": "기술",
+      "time": "14시간 전",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TVXRGelB1aHJBV0pCc21OMWlodkcxRUZlMmVGMUFVcFRZT3dCUXJweDhhVDd6VUxYMUdvWndDVmdYS3VKTXNSMDNTakQ0YzhYd0RiSEZCZjVOd9IBVEFVX3lxTE5nYkFiM2lob0kxV0liMk45bWFnNEpHUG9uU0swV3N1cmxOWExrSGhLV09QMVZTSnZTUWtGa0M5STNzME55eWpqS3FVYXdPQ2lvTUZjYQ?oc=5",
+      "views": 50687,
+      "pubDate": "Thu, 09 Jul 2026 10:48:42 GMT",
+      "trending": "up",
+      "trendPercent": 23,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TVXRGelB1aHJBV0pCc21OMWlodkcxRUZlMmVGMUFVcFRZT3dCUXJweDhhVDd6VUxYMUdvWndDVmdYS3VKTXNSMDNTakQ0YzhY…",
+      "keywords": [
+        "218만원",
+        "SK하이닉스에",
+        "목표가",
+        "185만원"
+      ]
+    }
+  ]
 }
